@@ -1,2 +1,2 @@
 * [首页](/)
-* [指南](SpringBoot/)
+* [SpringBoot中英文对照文档](SpringBoot/)
