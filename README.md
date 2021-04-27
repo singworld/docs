@@ -11,5 +11,7 @@
 
 ?> _TODO_ 完善示例
 
+ {docsify-updated}
+
 
 [link](/demo/ ':ignore title')
