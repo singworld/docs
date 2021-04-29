@@ -86,8 +86,7 @@ Running your example: Part 1 | Part 2
 Spring Boot CLI： 使用 CLI
 
 
-<<<<<<< HEAD
-=======
+
 > 4. Working with Spring Boot
 
 Ready to actually start using Spring Boot? We’ve got you covered.
